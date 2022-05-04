@@ -12,6 +12,13 @@ public class concat {
         System.out.println(fname);
 
         System.out.println(name.concat(lname)) ;
+
+        int x = 10 ;
+        String y = "10" ;
+
+        System.out.println(x + y) ;
+
+        System.out.println("Hello \"Tokyo\" World!") ;
     }
 
 }
