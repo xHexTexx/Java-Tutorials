@@ -22,5 +22,8 @@ public class datatypes {
         boolean b = true ; 
         System.out.println(b) ;
 
+        final float pi = 3.14f ;
+        System.out.println(pi) ;
+
     }
 }
